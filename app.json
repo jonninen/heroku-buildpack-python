@@ -1,0 +1,15 @@
+{
+  "name": "heroku-buildpack-python",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
